@@ -1,2 +1,18 @@
 # MEAP-RVE-Microstructure-Generator
-This is the repository for the MEAP algorithm. Clean notebooks containing the code as well as easy-to-follow instructional guides will be uploaded here soon after publication of the MEAP paper.
+This repository consists of Python notebook implementations of the MEAP algorithm. 
+
+There are 3 Jupyter Notebooks:
+1. MEAP Placement: Demonstrates how MEAP places inclusions.
+2. MEAP Shaking: Demonstrates periodic shaking using the mesh grid.
+3. MEAP without Splines (Only Circles): Demonstrates simple MEA using circles instead of splines.
+
+These codes are simple to understand, and are base code that should be modified and customized according to the user's needs and preferences. 
+
+# Paper 
+The relevant paper is "Efficient mesh assisted placement algorithm for generation of random microstructures with custom inclusion shapes up to extremely high volume fractions" published in Composites Part A. Please email me at dsaha36@gatech.edu or dhrubo.saha.117@gmail.com if you don't have access to the journal, and I will send you the paper.
+https://www.sciencedirect.com/science/article/pii/S1359835X25004063?via%3Dihub#da005
+
+# Citation
+If you use the codes in your work or find them useful, please cite the paper:
+
+Saha, D., Sun, L., & Lai, C. Q. (2025). Efficient mesh assisted placement algorithm for generation of random microstructures with custom inclusion shapes up to extremely high volume fractions. Composites Part A: Applied Science and Manufacturing, xxx, 109112. https://doi.org/10.1016/j.compositesa.2025.109112
