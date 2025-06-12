@@ -4,7 +4,7 @@ This repository consists of Python notebook implementations of the MEAP algorith
 There are 3 Jupyter Notebooks:
 1. MEAP Placement: Demonstrates how MEAP places inclusions.
 2. MEAP Shaking: Demonstrates periodic shaking using the mesh grid.
-3. MEAP without Splines (Only Circles): Demonstrates simple MEA using circles instead of splines.
+3. MEAP without Splines (Only Circles): Demonstrates simple MEAP using circles instead of splines.
 
 These codes are simple to understand, and are base code that should be modified and customized according to the user's needs and preferences. 
 
