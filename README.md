@@ -12,6 +12,9 @@ These codes are simple to understand due to the modular and annotated nature, an
 The relevant paper is "Efficient mesh assisted placement algorithm for generation of random microstructures with custom inclusion shapes up to extremely high volume fractions" published in Composites Part A. Please email me at dsaha36@gatech.edu or dhrubo.saha.117@gmail.com if you don't have access to the journal, and I will send you the paper.
 https://www.sciencedirect.com/science/article/pii/S1359835X25004063?via%3Dihub#da005
 
+Limited Time Only Link from Elsevier until August 2025 below:
+https://www.sciencedirect.com/science/article/pii/S1359835X25004063?dgcid=coauthor
+
 # SOLIDWORKS VBA API version
 Another version of the MEAP algorithm in SOLIDWORKS VBA API with a video guide is in the repository below. It generates RVEs inside SOLIDWORKS using SOLIDWORKS functionalities. It is for interested coders and not mandatory to use. The published paper describes this Python version in this repo, but not the VBA API one in that repo.
 https://github.com/DhruboSaha/CompMCG
