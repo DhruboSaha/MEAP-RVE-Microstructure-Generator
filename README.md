@@ -13,7 +13,7 @@ The relevant paper is "Efficient mesh assisted placement algorithm for generatio
 https://www.sciencedirect.com/science/article/pii/S1359835X25004063?via%3Dihub#da005
 
 # SOLIDWORKS VBA API version
-Another version of the MEAP algorithm in SOLIDWORKS VBA API with a video guide is in the repository below. It generates RVEs inside SOLIDWORKS using SOLIDWORKS functionalities. It is for interested coders and not mandatory to use. The paper describes this Python version, but not the VBA API one.
+Another version of the MEAP algorithm in SOLIDWORKS VBA API with a video guide is in the repository below. It generates RVEs inside SOLIDWORKS using SOLIDWORKS functionalities. It is for interested coders and not mandatory to use. The published paper describes this Python version in this repo, but not the VBA API one in that repo.
 https://github.com/DhruboSaha/CompMCG
 
 # Citation
