@@ -26,6 +26,6 @@ If you use the codes in your work or find them useful, please cite the paper:
   doi     = {10.1016/j.compositesa.2025.109112}
 }
 
-# Other Versions
-Another version of the MEAP algorithm in SOLIDWORKS VBA API with a video guide is in the repository below. It is for interested coders and not mandatory to use. The paper describes this Python version, but not the VBA API one.
+# SOLIDWORKS VBA API version
+Another version of the MEAP algorithm in SOLIDWORKS VBA API with a video guide is in the repository below. It generates RVEs inside SOLIDWORKS using SOLIDWORKS functionalities. It is for interested coders and not mandatory to use. The paper describes this Python version, but not the VBA API one.
 https://github.com/DhruboSaha/CompMCG
