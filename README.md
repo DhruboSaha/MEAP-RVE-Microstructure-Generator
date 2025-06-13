@@ -6,7 +6,7 @@ There are 3 Jupyter Notebooks:
 2. MEAP Shaking: Demonstrates periodic shaking using the mesh grid.
 3. MEAP without Splines (Only Circles): Demonstrates simple MEAP using circles instead of splines.
 
-These codes are simple to understand due to the modular and annotated nature, and are base code that should be customized according to the user's needs and preferences. For example, you can combine a) MEAP + RSA from MEAP Placement with b) periodic shaking from MEAP Shaking, to create a main program while loop that caters to your preferences. I may make video guides illustrating the process if I get time soon.
+These codes are simple to understand due to the modular and annotated nature, and are base code that should be customized according to the user's needs and preferences. For example, you can combine a) MEAP + RSA from MEAP Placement with b) periodic shaking from MEAP Shaking, to create a main program while loop that caters to your preferences.
 
 # Paper 
 The relevant paper is "Efficient mesh assisted placement algorithm for generation of random microstructures with custom inclusion shapes up to extremely high volume fractions" published in Composites Part A. Please email me at dsaha36@gatech.edu or dhrubo.saha.117@gmail.com if you don't have access to the journal, and I will send you the paper.
