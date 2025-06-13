@@ -15,7 +15,7 @@ https://www.sciencedirect.com/science/article/pii/S1359835X25004063?via%3Dihub#d
 # Citation
 If you use the codes in your work or find them useful, please cite the paper:
 
-Saha, D., Sun, L., & Lai, C. Q. (2025). Efficient mesh assisted placement algorithm for generation of random microstructures with custom inclusion shapes up to extremely high volume fractions. Composites Part A: Applied Science and Manufacturing, xxx, 109112. https://doi.org/10.1016/j.compositesa.2025.109112
+Saha, D., Sun, L., & Lai, C. Q. (2025). Efficient mesh assisted placement algorithm for generation of random microstructures with custom inclusion shapes up to extremely high volume fractions. Composites Part A: Applied Science and Manufacturing, 198, 109112. https://doi.org/10.1016/j.compositesa.2025.109112
 
 ```bibtex
 @article{saha2025meap,
@@ -23,7 +23,7 @@ Saha, D., Sun, L., & Lai, C. Q. (2025). Efficient mesh assisted placement algori
   title   = {Efficient mesh assisted placement algorithm for generation of random microstructures with custom inclusion shapes up to extremely high volume fractions},
   journal = {Composites Part A: Applied Science and Manufacturing},
   year    = {2025},
-  volume  = {xxx},
+  volume  = {198},
   pages   = {109112},
   doi     = {10.1016/j.compositesa.2025.109112}
 }
