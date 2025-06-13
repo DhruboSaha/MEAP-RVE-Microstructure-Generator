@@ -13,7 +13,7 @@ The relevant paper is "Efficient mesh assisted placement algorithm for generatio
 Perpetual Link:
 https://www.sciencedirect.com/science/article/pii/S1359835X25004063?via%3Dihub#da005
 
-Limited Time Free Link from Elsevier until August 2025 below:
+Limited Time Free Link from Elsevier until August 2025:
 https://www.sciencedirect.com/science/article/pii/S1359835X25004063?dgcid=coauthor
 
 # SOLIDWORKS VBA API version
