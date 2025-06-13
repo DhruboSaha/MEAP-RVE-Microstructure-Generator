@@ -10,9 +10,10 @@ These codes are simple to understand due to the modular and annotated nature, an
 
 # Paper 
 The relevant paper is "Efficient mesh assisted placement algorithm for generation of random microstructures with custom inclusion shapes up to extremely high volume fractions" published in Composites Part A. Please email me at dsaha36@gatech.edu or dhrubo.saha.117@gmail.com if you don't have access to the journal, and I will send you the paper.
+Perpetual Link:
 https://www.sciencedirect.com/science/article/pii/S1359835X25004063?via%3Dihub#da005
 
-Limited Time Only Link from Elsevier until August 2025 below:
+Limited Time Free Link from Elsevier until August 2025 below:
 https://www.sciencedirect.com/science/article/pii/S1359835X25004063?dgcid=coauthor
 
 # SOLIDWORKS VBA API version
