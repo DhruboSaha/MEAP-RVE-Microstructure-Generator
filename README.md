@@ -16,6 +16,8 @@ https://www.sciencedirect.com/science/article/pii/S1359835X25004063?via%3Dihub#d
 Limited Time Free Link from Elsevier until August 2025:
 https://www.sciencedirect.com/science/article/pii/S1359835X25004063?dgcid=coauthor
 
+ResearchGate Full Text Acess Free: https://www.researchgate.net/publication/392566848_Efficient_mesh_assisted_placement_algorithm_for_generation_of_random_microstructures_with_custom_inclusion_shapes_up_to_extremely_high_volume_fractions?_sg%5B0%5D=rH2ptaUrIgvci_2MaKBo8oMjHkrhyWbd5XPSbsL85x-MZFMeDxP66PmdlhJ1JCc40kuAGNu_xjRrnSkuZ1iGx2uSRH99TOJtWSTMEdnp.hSRFghmly0sH0y4MliC3kbHViL_WK4eo7-TZdy3Xd8MrkUJ0VODh9glPn6vP44AA3rO2H9ZFPBNU0vyOzXsecg&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUiLCJwcmV2aW91c1BhZ2UiOiJwcm9maWxlIiwicG9zaXRpb24iOiJwYWdlQ29udGVudCJ9fQ
+
 # SOLIDWORKS VBA API version
 Another version of the MEAP algorithm in SOLIDWORKS VBA API with a video guide is in the repository below. It generates RVEs inside SOLIDWORKS using SOLIDWORKS functionalities. It is for interested coders and not mandatory to use. The published paper describes this Python version in this repo, but not the VBA API one in that repo.
 https://github.com/DhruboSaha/CompMCG
